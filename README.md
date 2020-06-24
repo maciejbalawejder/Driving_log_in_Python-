@@ -1,4 +1,4 @@
-# Python_wheel
+# Creating a driving log in Python 
 The program which is reading the position of steering wheel, acceleration and breaking pedal and save this data to csv file.
 
 Libraries used : 
